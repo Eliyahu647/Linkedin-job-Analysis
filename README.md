@@ -57,10 +57,10 @@ Interactive map showing job distributions by location.
 ---
 
 ## 🛠️ How to Use
-1)Load the SQL file (Linkedin_Analysis.sql) in your preferred database platform.
-2)Import the datasets into the database.
-3)Run the queries in Linkedin_Analysis.sql to extract insights.
-4)Explore the visualizations to gain a deeper understanding of the job market trends.
+- Load the SQL file (Linkedin_Analysis.sql) in your preferred database platform.
+- Import the datasets into the database.
+- Run the queries in Linkedin_Analysis.sql to extract insights.
+- Explore the visualizations to gain a deeper understanding of the job market trends.
 
 
 
