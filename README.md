@@ -4,13 +4,6 @@
 
 ---
 
-## 🚀 Features
-- **Job Analysis by Industry**: Average salary, number of positions, and required skills.
-- **Application Analysis**: Application rates by type and application conversion rates.
-- **Geographic Analysis**: Interactive map displaying job locations and distribution.
-
----
-
 ## 📂 Files Included
 - **`Linkedin_Analysis.sql`**: SQL scripts used for data cleaning, manipulation, and aggregation.
 - **`benefits.csv`**: Contains data on job benefits across industries.
@@ -25,18 +18,13 @@
 ---
 
 ## 📊 Dashboards Overview
-### 1. **Job Application Analysis**
-![Job Application Analysis]()
+### 1. **Main Analysis Dashbord**
+![Job Application Analysis](Main_Dashnord.png)
 
 Highlights application conversion rates, remote job percentages, and application types.
 
-### 2. **Industry Trends**
-![Industry Trends]()
-
-Analyzes average salaries, job counts, and top skills by industry.
-
-### 3. **Geographic Distribution**
-![Geographic Distribution]()
+### 2. **Geographic Distribution**
+![Geographic Distribution](Location_Dashbord.png)
 
 Interactive map showing job distributions by location.
 
